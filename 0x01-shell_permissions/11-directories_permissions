@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod  --quiet ugo+x */ /*
+chmod  --quiet ugo+x */, /*
