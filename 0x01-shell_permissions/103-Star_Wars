@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -AV 'StarWars IV' 
+sudo -Vt 'StarWars IV' 
